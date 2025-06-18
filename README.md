@@ -1,8 +1,8 @@
 # 📋 Task Manager Application – React with Tailwind CSS
 
-🚀 **Live Demo**: [https://week-3-react-js-assignment-stine-ri.vercel.app/](https://week-3-react-js-assignment-stine-ri.vercel.app/)
+🚀 **Live Demo**: [https://week-3-react-assignment-stine-ri.vercel.app/](https://week-3-react-assignment-stine-ri.vercel.app/)
 
-![Task Manager Screenshot](./screenshots/download.png)
+![Task Manager Screenshot](./screenshots/download%20(1).png)
 
 ---
 
