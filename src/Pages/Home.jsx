@@ -12,8 +12,9 @@ const Home = () => {
           </h1>
 
           <p className="text-gray-600 dark:text-gray-300 mb-6 leading-relaxed text-lg">
-            This React + Tailwind CSS application helps you manage tasks and explore live API data effortlessly.
+            Stay on top of your tasks and explore up-to-date data with a simple, intuitive, and beautifully designed interface.
           </p>
+
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Button as="link" to="/tasks" className="w-full sm:w-auto">
