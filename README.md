@@ -15,7 +15,6 @@
 - [Project Structure](#project-structure)
 - [Available Scripts](#available-scripts)
 - [Deployment](#deployment)
-- [Contributing](#contributing)
 - [License](#license)
 
 ---
